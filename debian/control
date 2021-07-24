@@ -1,18 +1,18 @@
 Source: sdlpop
 Section: games
-Priority: extra
+Priority: optional
 Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
-Build-Depends: debhelper (>= 12.0.0), libsdl2-image-dev(>= 2.0.2)
-Standards-Version: 3.9.3
-Homepage: http://github.com/HuayraLinux/pkg-sdlpop
-Vcs-Git: git://github.com/HuayraLinux/pkg-sdlpop.git
+Build-Depends: debhelper (>= 12.0.0), libsdl2-image-dev (>= 2.0.2)
+Standards-Version: 4.3.0
+Homepage: https://github.com/HuayraLinux/pkg-sdlpop
+Vcs-Git: https://github.com/HuayraLinux/pkg-sdlpop.git
 Vcs-Browser: https://github.com/HuayraLinux/pkg-sdlpop
 
 Package: sdlpop
 Architecture: amd64
-Depends: ${misc:Depends}
-Description: An open-source port of Prince of Persia
- This is an open-source port/conversion of the DOS game Prince of Persia.
+Depends: ${misc:Depends}, bash (>= 5.0)
+Description: Open-source port of Prince of Persia
+ SDLPoP is an open-source port/conversion of the DOS game Prince of Persia.
  .
  It is based on the disassembly of the original PoP1 for DOS.
  .

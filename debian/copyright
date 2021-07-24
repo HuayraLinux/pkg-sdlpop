@@ -2,12 +2,12 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: sdlpop
 Source: https://github.com/NagyD/SDLPoP
 
-Files: debian/*
-Copyright: 2021 Fernando Toledo <ragnarok@docksud.com.ar>
+Files: *
+Copyright: 2021  David from forum.princed.org (NagyD@GitHub.com)
 License: GPL-3.0+
 
-Files: *
-Copyright: 2021  David from forum.princed.org (NagyD on GitHub)
+Files: debian/*
+Copyright: 2021 Fernando Toledo <ragnarok@docksud.com.ar>
 License: GPL-3.0+
 
 License: GPL-3.0+

@@ -10,6 +10,7 @@
 # Modified to make a template file for a multi-binary package with separated
 # build-arch and build-indep targets  by Bill Allombert 2001
 
+
 # Uncomment this to turn on verbose mode.
 export DH_VERBOSE=1
 
@@ -23,5 +24,4 @@ override_dh_auto_build:
 	dh_auto_build --sourcedirectory=src
 
 override_dh_auto_install:
-	echo "skip dh_autp_install"
- 
+	echo "skip dh_auto_install"
