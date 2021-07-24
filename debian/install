@@ -1,11 +1,11 @@
-prince /usr/lib/sdlpop/
+prince     /usr/lib/sdlpop/
 SDLPoP.ini /usr/lib/sdlpop/
-mods   /usr/lib/sdlpop/mods
-replays /usr/lib/sdlpop/replays
+mods       /usr/lib/sdlpop/mods
+replays    /usr/lib/sdlpop/replays
 
-data/DIGISND1.DAT /usr/lib/sdlpop/data/
-data/DIGISND2.DAT /usr/lib/sdlpop/data/
-data/DIGISND3.DAT /usr/lib/sdlpop/data/
+data/DIGISND1.DAT   /usr/lib/sdlpop/data/
+data/DIGISND2.DAT   /usr/lib/sdlpop/data/
+data/DIGISND3.DAT   /usr/lib/sdlpop/data/
 data/FAT/*          /usr/lib/sdlpop/data/FAT
 data/font/*         /usr/lib/sdlpop/data/font
 data/GUARD/*        /usr/lib/sdlpop/data/GUARD
@@ -32,4 +32,5 @@ data/VDUNGEON/*     /usr/lib/sdlpop/data/VDUNGEON
 data/VIZIER/*       /usr/lib/sdlpop/data/VIZIER
 data/VPALACE/*      /usr/lib/sdlpop/data/VPALACE
 
-debian/prince /usr/games/
+debian/prince         /usr/games/
+debian/SDLPoP.desktop /usr/share/applications/

@@ -1,6 +1,3 @@
 #!/bin/bash
-
 ## SDLPoP wrapper
-
-cd /usr/lib/sdlpop/
-./prince $@
+/usr/lib/sdlpop/prince $@

@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/HuayraLinux/pkg-sdlpop
 
 Package: sdlpop
 Architecture: amd64
-Depends: ${misc:Depends}, bash (>= 5.0)
+Depends: ${misc:Depends},${shlibs:Depends}
 Description: Open-source port of Prince of Persia
  SDLPoP is an open-source port/conversion of the DOS game Prince of Persia.
  .

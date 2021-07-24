@@ -1,5 +1,4 @@
 [Desktop Entry]
-Encoding=UTF-8
 Name=SDLPoP
 Comment=An open-source port of Prince of Persia
 Comment[es]=Una version libre del Principe de Persia
@@ -9,3 +8,4 @@ Icon=/usr/lib/sdlpop/data/icon.png
 Terminal=false
 Type=Application
 Categories=Application;Game;ArcadeGame;
+Keywords=Game;ArcadeGame;DOS;
